@@ -34,11 +34,9 @@ pip install -r requirements.txt
 ```
 
 ### 3. Run the Dashboard
-Navigate to the `dashboard/` directory or run Streamlit directly from the root using:
-```bash
-streamlit run dashboard/dashboard.py
-```
-This will open the application in your default web browser (typically at http://localhost:8501).
+
+This will open the application in your web browser
+https://submission-kgzr8vsjakvmsxskysiqkk.streamlit.app/
 
 ## Key Features
 - **Visualizations**: Displays top & worst product categories and monthly order volumes.
