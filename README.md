@@ -49,6 +49,8 @@ streamlit run dashboard/dashboard.py
 
 This will open the application in your default web browser (typically at http://localhost:8501).
 
+### Or https://submission-kgzr8vsjakvmsxskysiqkk.streamlit.app/
+
 ## Key Features
 
 - **Visualizations**: Displays top & worst product categories and monthly order volumes.
